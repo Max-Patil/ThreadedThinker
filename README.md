@@ -1,6 +1,10 @@
 # ThreadedThinker
 ThreadedThinker is a simple chess engine written in C programming language. It is UCI compatible that means it also implements UCI Protocol which establish connection between third party gui application ( Arena ) and chess engine. 
 
+# Demonstration
+https://github.com/Max-Patil/ThreadedThinker/assets/151635173/c07f749a-f1ac-405f-98d1-396dcc2e152c
+
+
 # Features 
 It implemented core features with optimization techniques listed below
 * Alpha-beta Pruning
